@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 timeshift=\"0\" group-title=\"XXX\" parent-code=\"1234\" tvg-id=\"Brazzerstveurope.hu\",Brazzers TV Europe
+#EXTINF:-1 , tvg-id=\"Brazzerstveurope.hu\",Brazzers TV Europe
 http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847/hlsx/pl.m3u8
 #EXTINF:-1 timeshift=\"0\" group-title=\"XXX\" parent-code=\"1234\" tvg-id=\"PrivateTV.ero\",Private TV HD
 http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54375/hlsx/pl.m3u8
